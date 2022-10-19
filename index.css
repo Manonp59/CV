@@ -32,10 +32,9 @@ h1{
 }
 
 .bloc{
-    width: 450px;
+    width: 600px;
     border-radius: 5px;
     border: 2px dotted coral;
-    max-width: 400px;
     max-height: 400px;
     overflow: scroll;
 }
